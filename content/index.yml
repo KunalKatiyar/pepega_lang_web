@@ -1,0 +1,126 @@
+title: Pepega Lang
+description: Pepega is an interpeter written in Rust to allow programmers to use twitch emotes as programming keywords!
+hero:
+  title: Pepega Lang
+  description: Pepega is an interpeter written in Rust to allow programmers to use twitch emotes as programming keywords!
+  links:
+    - label: Get started
+      icon: i-heroicons-arrow-right-20-solid
+      trailing: true
+      to: '#features'
+      size: xl
+    - label: View source
+      icon: i-simple-icons-github
+      size: xl
+      color: gray
+      to: https://github.com/KunalKatiyar/pepega
+      target: _blank
+logos:
+  title: 
+pricing:
+  headline: About
+  title: What makes it different?
+  description: Pepega lang is an interpretered language, but still is as fast as a compiled one! Inspired by 'Crafting Interpreters'
+  plans:
+    - title: Written in Rust
+      description: Easy to Write, Hard to Master
+      price: Its FASTTT
+      align: top
+      features:
+        - Concurrency
+        - Robust
+        - Cool because new lang
+        - Good community support
+    - title: Emotes!
+      description: Fun way to code your logic <3
+      price: Easily Extensible
+      highlight: true
+      scale: true
+      align: top
+      features:
+        - Basic support for famous emotes
+        - Support for easy addition
+    - title: Language Support
+      description: All basic support of an interpreted language
+      price: Keep it Simple
+      align: top
+      features:
+        - Function programming
+        - Object Oriented programming
+        - Error handling
+features:
+  headline: Emotes
+  title: Emotes supported till now!
+  description: 
+  items:
+    - title: Clueless as IF
+      description: 
+      icon: 
+    - title: Aware as ELSE
+      description: 
+      icon: 
+    - title: Yep as TRUE
+      description: 
+      icon: 
+    - title: Kappa as FALSE
+      description: 
+      icon: 
+    - title: Chatting as PRINT
+      description: 
+      icon: 
+    - title: KEKW as VAR
+      description: 
+      icon: 
+    - title: FORSEN as FOR
+      description: 
+      icon: 
+    - title: ResidentSleeper as WHILE
+      description: 
+      icon: 
+    - title: Pog as FUNCTION
+      description: 
+      icon: 
+    - title: GIGACHAD as CLASS
+      description: 
+      icon: 
+    - title: xdd as RETURN
+      description: 
+      icon: 
+testimonials:
+  headline: Examples
+  title: Some basic examples to try out!
+  description: 
+  items:
+    - quote: "kekw a = 3; \nkekw b = 20+3; \nchatting (a*b);"
+      author:
+        name: Result -> 69
+    - quote: "kekw a = 0;
+kekw temp;
+
+forsen (kekw b = 1; a < 10000; b = temp + b) {
+  chatting a;
+  temp = a;
+  a = b;
+}"
+      author:
+        name: "Result -> 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765"
+    - quote: "gigachad WTF {
+    init() {
+        chatting 'Init class'; }
+
+    nahh() { chatting this; } } kekw methodd = WTF().nahh;
+chatting method;
+"
+      author:
+        name: Result -> Init Class WTF
+    - quote: "chatting (((20*2)+12/3)+2)/3"
+      author:
+        name: Result -> 15.33334
+
+cta:
+  title: Want to contribute?
+  description: Head to the github repo and start contributing!
+  links:
+    - label: Pepega Github
+      size: xl
+      to: https://github.com/KunalKatiyar/pepega
